@@ -1,0 +1,19 @@
+hearder {
+    background: #000000;
+    color: #ffffff;
+}
+
+.cabecalho{
+    color: #ffffff
+    margin-left: 660px;
+    text-aling: center 
+    display: flex;
+}
+
+.cabecalho{
+    color: #ffffff
+    marging-left: 240px; /* ,,alimento a esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-contet: center;
+}
